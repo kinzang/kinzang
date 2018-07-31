@@ -1,0 +1,93 @@
+[
+   
+    {
+        "id": "3",
+        "question": "によれば,niyoreba",
+        "answer": "使い方:ーによれば　／ーによると　意味：　when you want to say where you got some information form. patterns used at the end of the sentence include - ／そうだ／ーよいうことだ。例:　今朝の天気予報によると、今週はずつと晴れるそうだ。\　According to the this morning weather forecast, it will be sunny today."
+    },
+    {
+        "id": "4",
+        "question": "なきゃ,nakya",
+        "answer": "使い方:ーなきゃ　／　意味：　When the meaning will be understood without saying the end of the sentence, you can user pharses such as - なきゃ to shorten the sentence。例:　あ！　大変！　宿題しなきゃ　\　aa, i didnt do homework, its gonna be troublesome!"
+    },
+	{
+        "id": "6",
+        "question": "っけ,ttke",
+        "answer": "使い方: ーっけ　／　意味：　When you confirm something that you do not fully know about or something that you heard but forgot about. 例: クリーニング屋、何時までだっけ。\ till what time is the laundry open."
+    },
+	{
+        "id": "7",
+        "question": "たりして,tarishite",
+        "answer": "使い方:ーたりして　は　「かもしりません」　という　意味を表す。　意味：　means perhaps or maybe .例:　さとうさん、まだ来ないね？　もしかして寝てたりして。。。。。\　Mr.Sato is still not here,know?  maybe he is still sleeping..."
+    },
+	{
+        "id": "8",
+        "question": "はもちろん,mochiron",
+        "answer": "使い方:ーAはもちろんBも　／　意味：　This is used when you want to say, not only A but also B. 例:　この店、　ラーメンはもちろん、　ギョーザも　おいしい　と　評判ですよ。\　This resturant has a reputation for having delicous ramen and also gyoza."
+		},
+	{
+        "id": "9",
+        "question": "hello,Hello",
+        "answer": "hello, もんだいありますか。"
+		},
+			{
+        "id": "10",
+        "question": "今度のこそ試合に勝ちたい,こそ,koso",
+        "answer": "「からこそ」　は　大切な理由、　特別な　理由だからと強調したいよきに使う。/ 意味：　when you want to emphasize an important or special resaon. 例：　大変なときだからこそ、協力することが大切なんです。/ Because its a tough time, it is important to enrich."
+		},
+{
+        "id": "11",
+        "question": "ようになる,youninaru",
+        "answer": "使い方:V辞書形＋ようになる\n意味:in order to/ so that/change in habitual action 例:日本語が話せるようになりました。\n(i can speak japanese)"
+		},
+{
+        "id": "12",
+        "question": "たばかり,tabakari",
+        "answer": "使い方:Vた+ばかり\n意味: only/just or nothing but) 例:今、家に帰ったばかりだ。\(i just got home)"
+		},
+		{
+        "id": "13",
+        "question": "らしい,rashii",
+        "answer": "使い方:普通形[Ａな、Ｎだ]らしい\n意味:seems like; I heard that; it appears that 例:東京ではもう桜が咲いているらしいです。 / it seems that cherry blossoms have already bloomed in tokyo"
+		},
+		{
+        "id": "14",
+        "question": "てはじめて,tehajimete",
+        "answer": "使い方:Vて+はじめて\n意味:not until, only after… did I 例:ドラゴンボールを読んで初めて、日本文化に興味を持った。 i didn't have any interest in Japanese culture until I read dragon ball"
+		},
+		{
+        "id": "15",
+        "question": "ないで, naide",
+        "answer": "使い方:Vない→ないで\n意味: without doing…; don’t 例:自分を危険に晒さないで。 Don't put yourself in danger"
+		},
+		{
+        "id": "16",
+        "question": "によって,niyotte",
+        "answer": "使い方:普通形＋によって\n意味: by means of, due to 例:大雪によって、電車は３時間以上も遅れました。 Due to the heavy snow, the train was more than 3 hours late"
+		},
+		
+	{
+        "id": "50",
+        "question": "angry,いかっている",
+        "answer": "😠"
+    },		
+	{
+        "id": "23",
+        "question": "help, ヘルプ",
+        "answer": "リンクをクリックしてください  -->http://japanesetest4you.com/flashcard/category/learn-japanese-grammar/",
+		
+    },
+
+    {
+        "id": "50",
+        "question": "angry,いかっている",
+        "answer": "😠"
+    },  
+
+    {
+        "id": "24",
+        "question": "今日の天気は?",
+        "answer": "🌞🌞🌞 いい天気です。",
+        
+    },
+]	
